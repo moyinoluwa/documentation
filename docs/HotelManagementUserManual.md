@@ -6,7 +6,7 @@ sidebar_label: Hotel Management User Manual
 
 ## INTRODUCTION
 
-Hotel management system is a platform that brings hotels around the world together for easy access to customers.
+Hotel management system is a platform that brings hotels around the world together for easy access to customers. https://www.hotelanywhere.com/login
 
 
 ## USER LANDING PAGE
