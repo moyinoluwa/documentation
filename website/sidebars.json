@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "HRcore": ["HRcoreUserManual"],
+    "Preventive Maintanance": ["PreventiveMaintenanceUserManual"],
+    "Hotel Management": ["HotelManagementUserManual"],
+    "CRM": ["CRMUserManual"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
