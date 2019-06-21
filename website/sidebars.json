@@ -15,6 +15,10 @@
     "CRM ": [
       "CRMUserManual",
       "CRMDevDoc"
+    ],
+    "Fields Sales ": [
+      "FieldSalesUserManual",
+      ""
     ]
   }
 }
