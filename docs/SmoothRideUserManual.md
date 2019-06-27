@@ -1,5 +1,5 @@
 ---
-id: SmoothRide User Manual
+id: SmoothRideUserManual
 title:  SmoothRide User Manual
 sidebar_label:  SmoothRide User Manual
 ---
