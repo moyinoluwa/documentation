@@ -8,6 +8,11 @@ sidebar_label:  SmoothRide User Manual
 
 SmoothRide is an application that helps people connect with riders. There is Smoothride for business . It a service of pay as you go. It's a B2B application. The invoice for all trips is sent at the end of the month to the company. SmoothRide has a web application and Mobile application.
 
+# PROCESS FLOW
+
+ ![alt-text](assets/smoothride/smoothridebiz/process_flow.PNG)
+
+ ![alt-text](assets/smoothride/smoothridebiz/process_flow2.PNG)
 
 ## SMOOTHRIDE FOR BUSINESS (ADMIN)
 
@@ -15,11 +20,15 @@ SmoothRide is an application that helps people connect with riders. There is Smo
 
  ![alt-text](assets/smoothride/smoothridebiz/login.PNG)
 
-  ![alt-text](assets/smoothride/smoothridebiz/loginlogin.PNG)
+ ![alt-text](assets/smoothride/smoothridebiz/loginlogin.PNG)
 
  ![alt-text](assets/smoothride/smoothridebiz/add_staff.PNG)
 
+ ![alt-text](assets/smoothride/smoothridebiz/view_staff.PNG)
 
+ ![alt-text](assets/smoothride/smoothridebiz/trips.PNG)
+
+ 
 ## SMOOTHRIDE  (SUPER ADMIN)
  In smoothride , there is driver management (the admin can view all drivers location, add drivers and view drivers),customer (companies) management(view all customers and add customers) admin area(add other admin and change password). 
 

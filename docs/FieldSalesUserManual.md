@@ -8,21 +8,25 @@ sidebar_label:  Field Sales User Manual
 
  Field sales is the process by which companies visit leads and sell to them in person.It enables the sales manager keep track of all their sales representatives activities. Field Sales is in 2 section, the web application for the admin and mobile application for the sales representative.Some of the features of Field sales application include route plane. inventory,orders,analytics,outlets, schedule .The URL for the admin is http://salesmanager.ng/login.
 
+ # PROCESS FLOW
+ 
+ ![alt-text](assets/FieldSales/process_flow.PNG)
+
 ## ADMIN MENU
 
-![alt-text](assets/FieldSales/admin_menu.PNG)
+ ![alt-text](assets/FieldSales/admin_menu.PNG)
 
 ## ADMIN PROFILE
 
-![alt-text](assets/FieldSales/admin_profile.PNG)
+ ![alt-text](assets/FieldSales/admin_profile.PNG)
 
 ## DASHBOARD
 
 On the dashboard, you have the overview of all the activities going in the application
 
-![alt-text](assets/FieldSales/admin_dashboard.PNG)
+ ![alt-text](assets/FieldSales/admin_dashboard.PNG)
 
-![alt-text](assets/FieldSales/admin_dashboard2.PNG)
+ ![alt-text](assets/FieldSales/admin_dashboard2.PNG)
 
 ## ROUTE PLANS
 
