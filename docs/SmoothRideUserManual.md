@@ -24,7 +24,7 @@ SmoothRide is an application that helps people connect with riders. There is Smo
 
  ![alt-text](assets/smoothride/smoothridebiz/add_staff.PNG)
 
- ![alt-text](assets/smoothride/smoothridebiz/view_staff.PNG)
+ ![alt-text](assets/smoothride/smoothridebiz/view_staffs.PNG)
 
  ![alt-text](assets/smoothride/smoothridebiz/trips.PNG)
 
