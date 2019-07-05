@@ -6,7 +6,7 @@ sidebar_label: Preventive Developer Document
 
 ## INTRODUCTION
 
-Preventive maintenance is maintenance exercise that is regularly performed on a piece of equipment to lessen the likelihood of it failing. It is performed while the equipment is still working so that it does not break down unexpectedly. The software also includes tracking system. The URL for PMS is https://www.smoothrepairs.com/pms. You will be required to enter your details then login. 
+Preventive maintenance is maintenance exercise that is regularly performed on a piece of equipment to lessen the likelihood of it failing. It is performed while the equipment is still working so that it does not break down unexpectedly. The software also includes tracking system. The URL for PMS is https://www.smoothtracker.com/pms. You will be required to enter your details then login. 
 
 ## TASK STATUS
 

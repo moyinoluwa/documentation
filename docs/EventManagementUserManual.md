@@ -5,7 +5,7 @@ sidebar_label:  Event Management User Manual
 ---
 
 ## INTRODUCTION
-The URL for event management is http://eventguru.ng/
+Event guru is an application on which people can create event,register for an event,search and connect with vendors, social network  and request for event management service.The URL for event guru is http://eventguru.ng/
 
 ## INVITE/SUBSCRIBE
 User can buy view details of an event and buy ticket if interested. Also view the speakers profile

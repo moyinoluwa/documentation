@@ -7,6 +7,7 @@ sidebar_label:  SmoothRide User Manual
 ## INTRODUCTION
 
 SmoothRide is an application that helps people connect with riders. There is Smoothride for business . It a service of pay as you go. It's a B2B application. The invoice for all trips is sent at the end of the month to the company. SmoothRide has a web application and Mobile application.
+The URL for the admin of SmoothRide for Cooperate is http://104.248.232.131:5000/about. The URL for SmoothRide Admin is http://smoothride.herokuapp.com/.
 
 # PROCESS FLOW
 

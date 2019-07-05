@@ -6,7 +6,8 @@ sidebar_label: CRM User Manual
 
 ## INTRODUCTION
 
-Customer Relationship Management (CRM) is a combination of strategies and technology that is used to analyse and manage customer interactions throughout the customer lifecycle so as to improve customer service relationship
+Customer Relationship Management (CRM) is a combination of strategies and technology that is used to analyse and manage customer interactions throughout the customer lifecycle so as to improve customer service relationship.
+The URL for CRM is http://hrcore.ng/CRM/login
 
 # NOTE
 CRM has an Admin side and user side.
