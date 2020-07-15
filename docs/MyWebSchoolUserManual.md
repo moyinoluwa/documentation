@@ -24,7 +24,7 @@ The Solution will help schools:
 ## PROCESS FLOW
 
 # School Admin 
- ![alt-text](assets/MyWebSchool/SchoolAnywhere.svg)
+ ![alt-text](assets/MyWebSchool/SchoolAnywhere.png)
 
  # Student
 
@@ -36,6 +36,6 @@ The Solution will help schools:
 
 # Librarian
 
- ![alt-text](assets/MyWebSchool/SchoolAnywhere-Librarians.svg)
+ ![alt-text](assets/MyWebSchool/SchoolAnywhere-Librarian.svg)
 
 
