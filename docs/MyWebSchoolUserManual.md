@@ -7,7 +7,9 @@ sidebar_label:  My Web School User Manual
 ## INTRODUCTION
 
 
-School Management System branded as (My Web School) simplifies and improves school administration and online learning. It's learning outside the four walls of a classroom. A fully integrated school management solution that ensures better governance in school, prompt and timely reporting on student and staff activities. It Offers all the benefits of Azure cloud like scaling, automatic load balancing, and others.
+School Management System branded as (My Web School) simplifies and improves school administration and online learning. It's learning outside the four walls of a classroom.
+A fully integrated school management solution that ensures better governance in school, prompt and timely reporting on student and staff activities. 
+It Offers all the benefits of Azure cloud like scaling, automatic load balancing, and others.
 
 
 The Solution will help schools:
@@ -26,11 +28,11 @@ The Solution will help schools:
 # School Admin 
  ![alt-text](assets/MyWebSchool/SchoolAnywhere.png)
 
- # Student
+# Student
 
  ![alt-text](assets/MyWebSchool/SchoolAnywhere-Student.svg)
 
- # Accountant
+# Accountant
 
  ![alt-text](assets/MyWebSchool/SchoolAnywhere-Accountant.svg)
 
